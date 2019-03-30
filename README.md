@@ -3,7 +3,7 @@
 This file is for documening our university group project 'MoonCRM'
 
 
-### BITS-A1:     BITS-Mooncake/Mooncake-BITS-A 1.pdf
+### BITS-A1:    （ BITS-Mooncake/Mooncake-BITS-A 1.pdf） https://github.com/SophieSha/BITS-Mooncake/blob/master/Mooncake-BITS-A%201.pdf
      
 
 ### Adobe XD for group project:   https://xd.adobe.com/view/df3c8b8b-04e5-4e47-5edf-68384c51c689-a90d/?hints=off
