@@ -2,7 +2,7 @@
 
 This file is for documening our university group project 'MoonCRM'
 
-### [Meeting minutes]()
+### [Meeting Minutes](https://github.com/SophieSha/BITS-MoonCRM/tree/master/Meeting%20Minutes)
 
 
 ### [BITS-A1](https://github.com/SophieSha/BITS-Mooncake/blob/master/Mooncake-BITS-A%201.pdf)
