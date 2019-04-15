@@ -10,5 +10,5 @@ This file is for documening our university group project 'MoonCRM'
 
 ### [Screenshots for google doc editing history](https://github.com/SophieSha/BITS-Mooncake/tree/master/Group%20Google%20doc-version%20history)
 
-### [Website Mock ups in Adobe XD](https://xd.adobe.com/view/df3c8b8b-04e5-4e47-5edf-68384c51c689-a90d/?hints=off)
+### [Website Mock ups in Adobe XD - the link needs to be updated for latest version by file owner Daniel]()
       
