@@ -2,13 +2,15 @@
 
 This file is for documening our university group project 'MoonCRM'
 
-### [Meeting Minutes](https://github.com/SophieSha/BITS-MoonCRM/tree/master/Meeting%20Minutes)
+### [Meeting Minutes](https://github.com/SophieSha/BITS-MoonCRM/tree/master/Assignment%20Documentation/Meeting%20Minutes)
 
 
-### [BITS-A1](https://github.com/SophieSha/BITS-Mooncake/blob/master/Mooncake-BITS-A%201.pdf)
+### [BITS-A1](https://github.com/SophieSha/BITS-MoonCRM/blob/master/Assignment%20Documentation/Mooncake-BITS-A%201.pdf)
      
 
-### [Screenshots for google doc editing history](https://github.com/SophieSha/BITS-Mooncake/tree/master/Group%20Google%20doc-version%20history)
+### [Screenshots for google doc editing history](https://github.com/SophieSha/BITS-MoonCRM/tree/master/Assignment%20Documentation/Google%20doc-Version%20history)
 
-### [Website Mock ups in Adobe XD - the link needs to be updated for latest version by file owner Daniel]()
+### [Mock Ups Pictures](https://github.com/SophieSha/BITS-MoonCRM/tree/master/Assignment%20Documentation/Mock-up%20design-%20Final)
+
+### [Mock ups in Adobe XD](https://xd.adobe.com/view/c04bd702-06a9-444f-677e-4c2fbaafe8af-b67a/)
       
